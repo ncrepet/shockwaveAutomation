@@ -1,1 +1,2 @@
-# shockwaveAutomation
+# Shockwave Automation
+This is a mathematica notebook used to compute impact factor in processes of the type $\gamma \to X$ in the framework of the shockwave. The notebook requires the [FeynCalc](https://feyncalc.github.io/) and [FeynArt](https://feynarts.de/) patched for FeynCalc, both obtainable [here](https://github.com/FeynCalc/feyncalc). It also needs both model files available in this repo. The notebook also contain example to compute the impact factor for $\gamma \to q\bar{q}$ and $\gamma \to q\bar{q}\gamma$.
